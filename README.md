@@ -26,16 +26,16 @@ A full stack Notes Application built using:
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](screenshots/loginpage.png)
+![Login](notes/screenshots/loginpage.png)
 
 ### 📄 Notes Dashboard
-![Notes](screenshots/homepage.png)
+![Notes](notes/screenshots/homepage.png)
 
 ### ➕ Add Note
-![Add Note](screenshots/Addnote.png)
+![Add Note](notes/screenshots/Addnote.png)
 
 ### ✏️ Edit Note
-![Edit Note](screenshots/editnote.png)
+![Edit Note](notes/screenshots/editnote.png)
 
 ---
 
