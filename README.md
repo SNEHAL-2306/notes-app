@@ -35,7 +35,7 @@ A full stack Notes Application built using:
 ![Add Note](notes/screenshots/Addnote.png)
 
 ### ✏️ Edit Note
-![Edit Note](notes/screenshots/editnote.png)
+![Edit Note](notes/screenshots/Editnote.png)
 
 ---
 
